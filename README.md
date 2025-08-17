@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Ofonuyen-Inyang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Ofonuyen-Inyang/Ofonuyen-Inyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in business administration, career success, and data processing-related opportunities.
+- 🌱 I’m a graduate of applied business management from Brigham Young University Idaho.
+- 💞️ I’m looking to collaborate on service innovation, business administration, and social media, sales, AI.
+- 📫 How to reach me ofonuyen.ask@gmail.com
+Ofonuyen-Inyang/Ofonuyen-Inyang is is passionate about leadership, growth, and business.
